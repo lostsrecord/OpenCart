@@ -1,0 +1,56 @@
+2024-10-06 10:51:27 INFO  AccountRegistrationTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 10:51:29 INFO  AccountRegistrationTest:15 - ************Starting Account Registration Test************
+2024-10-06 10:51:29 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-10-06 10:51:30 INFO  AccountRegistrationTest:24 - Clicking on Register link
+2024-10-06 10:51:30 INFO  AccountRegistrationTest:29 - Providing customer information
+2024-10-06 10:51:32 INFO  AccountRegistrationTest:41 - Validating expected message...
+2024-10-06 10:51:32 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-10-06 10:51:32 INFO  AccountRegistrationTest:48 - *****Finished account testing 
+2024-10-06 10:51:33 INFO  LoginTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 10:51:35 INFO  LoginTest:16 - ********* Starting Login Test *********
+2024-10-06 10:51:36 INFO  LoginTest:24 - ********* Clicked On Login Link Under My Account *********
+2024-10-06 10:51:36 INFO  LoginTest:28 - ********* Adding Credentials *********
+2024-10-06 10:51:37 INFO  LoginTest:32 - ********* Clicked On Login Button *********
+2024-10-06 10:51:37 INFO  LoginTest:42 - ******* Login Test Completed *********
+2024-10-06 11:41:23 INFO  AccountRegistrationTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:41:25 INFO  AccountRegistrationTest:15 - ************Starting Account Registration Test************
+2024-10-06 11:41:25 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-10-06 11:41:26 INFO  AccountRegistrationTest:24 - Clicking on Register link
+2024-10-06 11:41:26 INFO  AccountRegistrationTest:29 - Providing customer information
+2024-10-06 11:41:27 INFO  AccountRegistrationTest:41 - Validating expected message...
+2024-10-06 11:41:27 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-10-06 11:41:27 INFO  AccountRegistrationTest:48 - *****Finished account testing 
+2024-10-06 11:41:29 INFO  LoginTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:41:31 INFO  LoginTest:16 - ********* Starting Login Test *********
+2024-10-06 11:41:32 INFO  LoginTest:24 - ********* Clicked On Login Link Under My Account *********
+2024-10-06 11:41:32 INFO  LoginTest:28 - ********* Adding Credentials *********
+2024-10-06 11:41:33 INFO  LoginTest:32 - ********* Clicked On Login Button *********
+2024-10-06 11:41:33 INFO  LoginTest:42 - ******* Login Test Completed *********
+2024-10-06 11:51:20 INFO  AccountRegistrationTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:51:23 INFO  AccountRegistrationTest:15 - ************Starting Account Registration Test************
+2024-10-06 11:51:23 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-10-06 11:51:23 INFO  AccountRegistrationTest:24 - Clicking on Register link
+2024-10-06 11:51:23 INFO  AccountRegistrationTest:29 - Providing customer information
+2024-10-06 11:51:25 INFO  AccountRegistrationTest:41 - Validating expected message...
+2024-10-06 11:51:25 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-10-06 11:51:25 INFO  AccountRegistrationTest:48 - *****Finished account testing 
+2024-10-06 11:51:26 INFO  LoginTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:51:29 INFO  LoginTest:16 - ********* Starting Login Test *********
+2024-10-06 11:51:29 INFO  LoginTest:24 - ********* Clicked On Login Link Under My Account *********
+2024-10-06 11:51:29 INFO  LoginTest:28 - ********* Adding Credentials *********
+2024-10-06 11:51:30 INFO  LoginTest:32 - ********* Clicked On Login Button *********
+2024-10-06 11:51:30 INFO  LoginTest:42 - ******* Login Test Completed *********
+2024-10-06 11:57:20 INFO  AccountRegistrationTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:57:22 INFO  AccountRegistrationTest:15 - ************Starting Account Registration Test************
+2024-10-06 11:57:22 INFO  AccountRegistrationTest:21 - Clicking on MyAccount
+2024-10-06 11:57:23 INFO  AccountRegistrationTest:24 - Clicking on Register link
+2024-10-06 11:57:23 INFO  AccountRegistrationTest:29 - Providing customer information
+2024-10-06 11:57:24 INFO  AccountRegistrationTest:41 - Validating expected message...
+2024-10-06 11:57:24 INFO  AccountRegistrationTest:44 - Account Registration Test Passed
+2024-10-06 11:57:24 INFO  AccountRegistrationTest:48 - *****Finished account testing 
+2024-10-06 11:57:26 INFO  LoginTest:52 - ************LAUNCHING APPLICATION************
+2024-10-06 11:57:28 INFO  LoginTest:16 - ********* Starting Login Test *********
+2024-10-06 11:57:29 INFO  LoginTest:24 - ********* Clicked On Login Link Under My Account *********
+2024-10-06 11:57:29 INFO  LoginTest:28 - ********* Adding Credentials *********
+2024-10-06 11:57:30 INFO  LoginTest:32 - ********* Clicked On Login Button *********
+2024-10-06 11:57:30 INFO  LoginTest:42 - ******* Login Test Completed *********
